@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    margin: 20px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap; /* if the screen is not wide enough, its okay to wrap them */ 
+    justify-content: space-around;
+    padding: 10px;
+    border: 3px solid green;
+    width: 80%;
+    margin: auto;
+}
+
+main > div {
+    margin: 6px;
+    text-align: center;
+    width: 45%;
+}
+
+.movie-title {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.movie-release {
+    color: blue;
+    margin-bottom: 10px;
+}
+
+main > div > img {
+    width: 80%;
+    height: 500px; 
+    object-fit: cover;
+}

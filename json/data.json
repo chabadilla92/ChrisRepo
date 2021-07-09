@@ -1,0 +1,27 @@
+[
+    {
+        "title": "The Usual Suspects",
+        "release_year": "1995",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9c/Usual_suspects_ver1.jpg"
+    },
+    {
+        "title": "SpaceBalls",
+        "release_year": "1987",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Spaceballs.jpg" 
+    },
+    {
+        "title": "Avengers: End Game",
+        "release_year": "2019",
+        "image": "https://writinguntilragnarokhome.files.wordpress.com/2021/01/avengers-endgame-review.jpg?w=1280"
+    },
+    {
+        "title": "Whiplash",
+        "release_year": "2014",
+        "image": "https://i.ytimg.com/vi/Tn0sMRLrbp0/movieposter_en.jpg"
+    },
+    {
+        "title": "The Irishman",
+        "release_year": "2019",
+        "image": "https://i.ytimg.com/vi/WHXxVmeGQUc/maxresdefault.jpg"
+    }
+]
